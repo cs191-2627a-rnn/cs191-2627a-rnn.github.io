@@ -12,4 +12,4 @@ As we begin our project, we would like to share our initial project
 plan, which will guide us as we develop, test, and deploy what we hope
 is a more optimized data pipeline for DPP.
 
-See our [project plan](CS191_RNN_Project_Plan.pdf) here!
+See our [project plan](assets/project_plan.pdf) here!
