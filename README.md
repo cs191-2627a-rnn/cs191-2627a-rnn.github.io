@@ -2,6 +2,16 @@
 Welcome! This is the temporary group blog for **RNN**,
 a CS 191 group under Prof. Ligaya Leah Figueroa, PhD.
 
+# Software Test Report
+On November 25, 2026, we tested the prototype software of the
+[Spider-Iskolars](https://joshdotpatinof.github.io/spider-iskolars-blog/) group,
+called Sakuna.PH.
+
+You can find our software test report
+[here](assets/assets/software_test_report_for_spider-iskolars.pdf).
+
+Overall, their software passed our tests.
+
 # Video Project Demo
 Hello, once again! The initial software release has an accompanying video demo recording which can be found [here](https://drive.google.com/file/d/1lFszVBpnbDaDfD6JW-J7J5HXEu8mwSXN/view?usp=drive_link).
 
