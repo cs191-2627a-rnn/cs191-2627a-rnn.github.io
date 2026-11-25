@@ -8,7 +8,7 @@ On November 25, 2026, we tested the prototype software of the
 called Sakuna.PH.
 
 You can find our software test report
-[here](assets/assets/software_test_report_for_spider-iskolars.pdf).
+[here](assets/software_test_report_for_spider-iskolars.pdf).
 
 Overall, their software passed our tests.
 
